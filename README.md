@@ -1,19 +1,13 @@
-# Hi there, I am Joao Galvino 👋
+### Hi there, I am Joao Galvino 👋
 
-- 🔭 I’m currently working on Brazilian Federal Government public management systems
-- 🌱 I’m currently learning Python development with Django, Container management with Docker and Linux concepts in general
-- 👯 I’m looking to collaborate on automation projects
-- 💻 I'm passionate about networking, programming, astronomy, music and working out.
-- 📫 How to reach me: [Telegram](https://t.me/joaov777)
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaov777&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov777&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
-<!--
-**joaov777/joaov777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about She
-
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" alt="joao-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="joao-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+<img align="center" alt="joao-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="joao-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+</div>
