@@ -37,7 +37,7 @@
   <img height="30em" title="notepad++" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/notepadplusplus_white.svg"/>
   <img height="30em" title="keepassxc" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/keepassxc_white.svg"/>
   <img height="30em" title="nordvpn" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nordvpn_white.svg"/>
-  <img height="30em" title="obs studio" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/obs_studio_white.svg"/>
+  <img height="30em" title="obs studio" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/obsstudio_white.svg"/>
   <img height="30em" title="openvpn" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/openvpn_white.svg"/>
   <img height="30em" title="pastebin" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pastebin_white.svg"/>
   <img height="30em" title="tmux" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/tmux_white.svg"/>
