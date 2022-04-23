@@ -22,20 +22,15 @@
 <div style="display: centered">
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/docker_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/freenas_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/truenas_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/truenas_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/html5_white.svg"/>
-  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
- <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nginx_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pfsense_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vagrant_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nginx_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pfsense_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vagrant_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/xfce_white.svg"/>
 </div>
 
@@ -45,20 +40,13 @@ src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vagrant_white.s
 <div style="display: centered">
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/notepadplusplus_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/keepassxc_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nordvpn_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/obs_studio_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/openvpn_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pastebin_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/tmux_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vim_white.svg"/>
-  <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/virtualbox_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nordvpn_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/obs_studio_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/openvpn_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pastebin_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/tmux_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vim_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/virtualbox_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/wireshark_white.svg"/>
 </div>
 
@@ -72,21 +60,15 @@ src="https://raw.githubusercontent.com/joaov777/svg_icons/master/virtualbox_whit
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/gitlab_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/gnubash_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/javascript_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/mysql_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/postgresql_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/powershell_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/python_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/visualstudiocode_white.svg"/>
 </div>
- <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
- <img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
-<img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/mysql_white.svg"/>
-<img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/postgresql_white.svg"/>
-<img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/powershell_white.svg"/>
-<img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/python_white.svg"/>
-<img height="30em" 
-src="https://raw.githubusercontent.com/joaov777/svg_icons/master/visualstudiocode_white.svg"/>
+ 
 
 </div>
 
@@ -95,7 +77,6 @@ src="https://raw.githubusercontent.com/joaov777/svg_icons/master/visualstudiocod
 <div style="display: centered">
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/thinkpad_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/w3c_white.svg"/>
-  
 </div>
 
 #
