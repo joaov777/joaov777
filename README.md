@@ -70,7 +70,7 @@
 #### Reach out
 <div style="display: centered">
   <a href="https://t.me/joaov777"><img height="30em" title="telegram" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/telegram_white.svg"/></a>
-  <img height="30em" title="discord" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/discord_white.svg"/>
+  <a href="https://discordapp.com/users/402259471667167233/"><img height="30em" title="discord" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/discord_white.svg"/></a>
   <img height="30em" title="messenger" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/messenger_white.svg"/>
   <img height="30em" title="instagram" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/instagram_white.svg"/>
   <img height="30em" title="linkedin" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/linkedin_white.svg"/>
