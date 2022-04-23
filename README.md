@@ -65,15 +65,6 @@
 </div>
  
 
-</div>
-
-#
-#### Brands I respect
-<div style="display: centered">
-  <img height="30em" title="thinkpad" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/thinkpad_white.svg"/>
-  <img height="30em" title="w3c" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/w3c_white.svg"/>
-</div>
-
 #
 #### Reach out
 <div style="display: centered">
