@@ -74,7 +74,7 @@
   <img height="30em" title="messenger" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/messenger_white.svg"/>
   <img height="30em" title="instagram" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/instagram_white.svg"/>
   <img height="30em" title="linkedin" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/linkedin_white.svg"/>
-  <img height="30em" title="reddit" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/reddit_white.svg"/>
+  <a href="https://www.reddit.com/user/joaov777"><img height="30em" title="reddit" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/reddit_white.svg"/></a>
   <img height="30em" title="signal" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/signal_white.svg"/>
   <img height="30em" title="twitter" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
   <img height="30em" title="stackoverflow" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/stackoverflow_white.svg"/>
