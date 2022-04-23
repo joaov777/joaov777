@@ -81,6 +81,7 @@
   <img height="30em" title="stackoverflow" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/stackoverflow_white.svg"/>
 </div>
 
+#
 ![](https://visitor-badge.glitch.me/badge?page_id=joaov777.joaov777)
 
 
