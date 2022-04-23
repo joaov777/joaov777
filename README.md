@@ -62,6 +62,7 @@
   <img height="30em" title="powershell" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/powershell_white.svg"/>
   <img height="30em" title="python" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/python_white.svg"/>
   <img height="30em" title="visual studio code" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/visualstudiocode_white.svg"/>
+  <img height="30em" title="django" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/django_white.svg"/>
 </div>
  
 
