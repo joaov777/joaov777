@@ -61,7 +61,6 @@
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/gnubash_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/javascript_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
-  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/mysql_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/postgresql_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/powershell_white.svg"/>
@@ -92,12 +91,6 @@
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
   <img height="30em" 
 src="https://raw.githubusercontent.com/joaov777/svg_icons/master/stackoverflow_white.svg"/>
-</div>
-
-<div style="display: inline_block"><br>
-Check my Gitlab content
-<a href="https://gitlab.com/joaov777"><img align="center" alt="joao-gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></a>
-  
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=joaov777.joaov777)
