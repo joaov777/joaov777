@@ -5,7 +5,7 @@
 </div>
 
 #
-#### Operating systems I have actively worked with
+##### Operating systems
 <div style="display: centered">
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/archlinux_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/debian_white.svg"/>
@@ -18,15 +18,99 @@
 </div>
 
 #
-#### Technologies I have intensevely used on projects
+#### Technologies 
 <div style="display: centered">
-  haha
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/docker_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/freenas_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/truenas_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/html5_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
+ <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nginx_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pfsense_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vagrant_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/xfce_white.svg"/>
+</div>
+
+
+#
+#### Tools and Utilities
+<div style="display: centered">
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/notepadplusplus_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/keepassxc_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/nordvpn_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/obs_studio_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/openvpn_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pastebin_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/tmux_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vim_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/virtualbox_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/wireshark_white.svg"/>
+</div>
+
+
+
+#
+#### Development
+<div style="display: centered">
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/git_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/github_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/gitlab_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/gnubash_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/javascript_white.svg"/>
+</div>
+ <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
+ <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/markdown_white.svg"/>
+<img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/mysql_white.svg"/>
+<img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/postgresql_white.svg"/>
+<img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/powershell_white.svg"/>
+<img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/python_white.svg"/>
+<img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/visualstudiocode_white.svg"/>
+
 </div>
 
 #
-#### Infrastrucuture technologies 
+#### Brands I respect
 <div style="display: centered">
-  haha
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/thinkpad_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/w3c_white.svg"/>
+  
+</div>
+
+#
+#### Reach out
+<div style="display: centered">
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/telegram_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/discord_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/messenger_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/instagram_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/linkedin_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/reddit_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/signal_white.svg"/>
+  <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/twitter_white.svg"/>
+  <img height="30em" 
+src="https://raw.githubusercontent.com/joaov777/svg_icons/master/stackoverflow_white.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
