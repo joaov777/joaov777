@@ -5,7 +5,7 @@
 </div>
 
 #
-##### Operating systems
+#### Operating systems
 <div style="display: centered">
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/archlinux_white.svg"/>
   <img height="30em" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/debian_white.svg"/>
