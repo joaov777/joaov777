@@ -7,6 +7,6 @@
 
 <div style="display: inline_block"><br>
 Check my Gitlab content
-<img align="center" alt="joao-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+<a href="https://gitlab.com/joaov777"><img align="center" alt="joao-gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></a>
 </div>
 
