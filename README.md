@@ -28,6 +28,7 @@
   <img height="30em" title="pfsense" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/pfsense_white.svg"/>
   <img height="30em" title="vagrant" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/vagrant_white.svg"/>
   <img height="30em" title="xfce" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/xfce_white.svg"/>
+  <img height="30em" title="xfce" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/kde_white.svg"/>
 </div>
 
 
