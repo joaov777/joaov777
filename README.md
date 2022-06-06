@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=31F700&lines=Hi+there!)](https://git.io/typing-svg) 
+### Hey there!
 
 Currently involved with the development and automation on top of Python-based frameworks and Unix-like systems. Looking for opportunities and collaboration in related projects.
 - ☕ Fuel for every line of code
@@ -6,6 +6,7 @@ Currently involved with the development and automation on top of Python-based fr
 - 🎧 Coding playlist is <a href="https://open.spotify.com/playlist/5sedWanZzMweY9HsRknQwq?si=852bff8a42b943d3">here</a>
 - 🤝 Open to collaborate and evolve technically
 
+---
 
 <div style="display: centered">
 <img height="30em" title="arch linux" src="https://raw.githubusercontent.com/joaov777/svg_icons/master/archlinux_white.svg"/>
